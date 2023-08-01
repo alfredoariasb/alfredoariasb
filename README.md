@@ -42,12 +42,11 @@ Soy Desarrollador Web Jr, aprendiendo cada dia. Comencé en la Universidad estud
 
  
 
-- 💻 db：![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+- 💻 db：![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
  
 
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)
-
+- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![Javascript](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
  
 
  
