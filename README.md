@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Senior Software Engineer Java<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Desarrollador Web FUll Stack Jr.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 </em></p>
 
@@ -14,11 +14,7 @@
 - 👋 Hola ! Mi nombre es Alfredo Arias y soy Desarrollador Python Full Stack Jr.
 
 
-- 🌱 Soy vieja escuela, nunca habia tenido un github para mostrar codigo (no hay tiempo trabajando para las empresas), pero aqui estamos.
-
- 
-
-Soy desarrollador de software, especializado en java. Comencé en la Universidad aprendiendo if con bluej, luego trabaje con servlets y ahora con microservicios con Spring. Me gusta enseñar lo que se siendo instructor de bootcamp Java Fullstack.
+Soy Desarrollador Web Jr, aprendiendo cada dia. Comencé en la Universidad estudiando TECNICO SUPERIOR EN INFORMATICA, y durante toda mi experiencia laboral me he desempeñado en el area de Soporte Tecnico TI, pero actualmente estoy comenzando a formarme como desarrollador web, me apasiona la programación y me gustaria seguir creciendo en ella.
 
  
 
@@ -38,7 +34,7 @@ Soy desarrollador de software, especializado en java. Comencé en la Universidad
 
  
 
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
+- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)
 
  
 
@@ -50,36 +46,21 @@ Soy desarrollador de software, especializado en java. Comencé en la Universidad
 
  
 
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
+- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)
 
  
 
  
 
-- 🔭 Estoy trabajando en Edutecno enseñando python y java
+- 🔭 Estoy trabajando en TMX Inversiones SPA como Encargado de Soporte TI
 
 - 🌱 Estoy aprendiendo, sigo aprendiendo y morire sin saberlo todo.
 
-- ⚡ Dato curioso: Hace mucho tiempo era hábil en Karate.
+- ⚡ Dato curioso: Comence hace muchos años en el mundo de la computación, cuando no existia Windows, y todo era por comandos en MSDOS, mi primer computador fue un 8086, CGA de 124kb de ram.
 
  
 
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/uraken-5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jecarmona//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/uraken-5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alfredoariasb//)  
 
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uraken-5)](https://github.com/anuraghazra/github-readme-stats)
-
- 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=uraken-5)  
-
- 
-
-![GitHub metrics](https://metrics.lecoq.io/uraken-5)  
-
- 
-
-![Profile views](https://gpvc.arturio.dev/uraken-5)  
