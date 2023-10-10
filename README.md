@@ -55,7 +55,7 @@ Soy Desarrollador Web Jr, aprendiendo cada dia. Comencé en la Universidad estud
 
 - 🌱 Estoy aprendiendo, sigo aprendiendo y morire sin saberlo todo.
 
-- ⚡ Dato curioso: Comence hace muchos años en el mundo de la computación, cuando no existia Windows, y todo era por comandos en MSDOS, mi primer computador fue un 8086, CGA de 124kb de ram.
+- ⚡ Dato curioso: Mi pasión por el mundo de la computación comenzó hace muchos años, cuando no existia Windows, y todo era por comandos en MSDOS, mi primer computador fue un 8086, CGA de 124kb de ram y desde entonces vivo en un constante aprendizaje.
 
  
 
