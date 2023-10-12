@@ -14,7 +14,7 @@
 - 👋 Hola ! Mi nombre es Alfredo Arias y soy Desarrollador Python Full Stack Jr.
 
 
-Soy Desarrollador Web Jr, aprendiendo cada dia. Comencé en la Universidad estudiando TECNICO SUPERIOR EN INFORMATICA, y durante toda mi experiencia laboral me he desempeñado en el area de Soporte Tecnico TI, pero actualmente estoy comenzando a formarme como desarrollador web, me apasiona la programación y me gustaria seguir creciendo en ella.
+Soy Desarrollador Web Front-End Jr, aprendiendo cada dia. Comencé en la Universidad estudiando TECNICO SUPERIOR EN INFORMATICA, y durante toda mi experiencia laboral me he desempeñado en el area de Soporte Tecnico TI, pero actualmente estoy comenzando a formarme como desarrollador web, me apasiona la programación y me gustaria seguir creciendo en ella.
 
  
 
@@ -42,7 +42,7 @@ Soy Desarrollador Web Jr, aprendiendo cada dia. Comencé en la Universidad estud
 
  
 
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![Javascript](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
  
 
  
